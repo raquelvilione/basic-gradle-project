@@ -1,6 +1,6 @@
 # Estrutura Inicial - Gradle com Java
 
-> Como realizar a configuração de uma estrutura básica utilizando o Gradle com Java
+> Como realizar a configuração de uma estrutura básica utilizando o Gradle com Java para iniciar com automação de teste
 
 #### Requisitos
 - Java
